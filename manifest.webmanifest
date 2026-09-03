@@ -1,0 +1,23 @@
+{
+ "name": "Focus Flow Teach",
+ "short_name": "Teach",
+ "description": "a teacher planner for ADHD and neurodivergent teachers: a week of lessons at a glance, class lists with quick notes, a to-do list that knows about marking, parent contact log, seating charts, and a Sunday reset. Your data never leaves your device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF7F2",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
